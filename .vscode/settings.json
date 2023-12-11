@@ -1,0 +1,9 @@
+{
+    "go.useLanguageServer": true,
+    "go.languageServerExperimentalFeatures": {
+        "format": true,
+        "importShortcut": true
+    },
+    "go.gopath":"${env:GOPATH}",
+    "go.inferGopath": true
+}
